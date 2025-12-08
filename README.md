@@ -5,6 +5,8 @@ Hi — I'm Nolunga 👋🏾
 
 📱 Currently focused on retail & beauty apps (and other consumer products).
 
+📚 Currently upskilling on data science and machine learning using retail and skincare context!
+
 🌍 Check my work: [IT Girl Africa](https://itgirl.africa) · [My Weekly Planner](https://www.myweeklyplanr.com)
 
 Open to collaborations, mentoring, and partnerships.
