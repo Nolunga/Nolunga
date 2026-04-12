@@ -1,4 +1,4 @@
-Hi — I'm Nolunga 👋🏾
+Hi, I'm Nolunga 👋🏾
 
 
 💅🏾 I build impactful tech that improves education and empowers women.
@@ -7,6 +7,6 @@ Hi — I'm Nolunga 👋🏾
 
 📚 Currently upskilling on data science and machine learning using retail and skincare context!
 
-🌍 Check my work: [IT Girl Africa](https://itgirl.africa) · [My Weekly Planner](https://www.myweeklyplanr.com)
+🌍 Check my work: [IT Girl Africa](https://itgirl.africa) · [My Weekly Planner](https://www.myweeklyplanr.com/app)
 
 Open to collaborations, mentoring, and partnerships.
