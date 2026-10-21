@@ -7,6 +7,6 @@ Hi, I'm Nolunga 👋🏾
 
 📚 Currently upskilling on data science and machine learning using retail and skincare context!
 
-🌍 Check my work: [IT Girl Africa](https://itgirl.africa) · [My Weekly Planner](https://www.myweeklyplanr.com/app)
+🌍 Check my work: [IT Girl Academy](https://itgirl.africa) · [My Weekly Planner](https://www.myweeklyplanr.com/app)
 
 Open to collaborations, mentoring, and partnerships.
